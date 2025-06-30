@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(05aedd79-6512-452e-9c46-745dd93400ba), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/kasper/Desktop/scala-red-book/target/scala-3.7.1/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/kasper/Desktop/scala-red-book/target/scala-3.7.1/test-classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E040] Syntax Error: /home/kasper/Desktop/scala-red-book/src/test/scala/ExcercisesSuite.scala:1:7 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m1 |[0m[33mimport[0m [31m2[0m-[31m1[0m.Fibonacci.*[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       an identifier expected, but integer literal found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Jun 30, 2025, 5:27:04 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
